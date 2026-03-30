@@ -37,8 +37,8 @@ export const ayahData: Ayah[] = [
     tadabbur: "Pujian hanya milik Allah yang menurunkan Al-Qur'an sebagai pedoman lurus tanpa kecacatan. Ini adalah nikmat terbesar bagi umat manusia.",
     tafsir: "Dalam Tafsir Ibnu Katsir dijelaskan bahwa Allah memuji diri-Nya sendiri pada awal surah ini karena telah menurunkan Al-Qur'an kepada Rasul-Nya, Muhammad SAW. Al-Qur'an adalah nikmat terbesar bagi penduduk bumi karena mengeluarkan mereka dari kegelapan menuju cahaya. Allah menjadikannya kitab yang lurus, tidak ada kebengkokan dan penyimpangan di dalamnya.",
     audioUrls: {
-      mishary: "https://everyayah.com/data/Alafasy_128kbps/018001.mp3",
-      sudais: "https://everyayah.com/data/Abdurrahmaan_As-Sudais_192kbps/018001.mp3"
+      mishary: "https://verses.quran.com/Alafasy/mp3/018001.mp3",
+      sudais: "https://verses.quran.com/Sudais/mp3/018001.mp3"
     }
   },
   {
@@ -65,8 +65,8 @@ export const ayahData: Ayah[] = [
     tadabbur: "Al-Qur'an itu lurus, memberi peringatan bagi yang ingkar dan kabar gembira berupa surga bagi yang beriman dan beramal saleh.",
     tafsir: "Ibnu Katsir menafsirkan 'Qayyiman' sebagai lurus dan pertengahan. Tujuannya adalah untuk memberi peringatan kepada orang-orang kafir tentang azab yang pedih di dunia dan akhirat, serta memberi kabar gembira kepada orang-orang mukmin yang beramal saleh bahwa mereka akan mendapatkan pahala yang baik, yaitu surga.",
     audioUrls: {
-      mishary: "https://everyayah.com/data/Alafasy_128kbps/018002.mp3",
-      sudais: "https://everyayah.com/data/Abdurrahmaan_As-Sudais_192kbps/018002.mp3"
+      mishary: "https://verses.quran.com/Alafasy/mp3/018002.mp3",
+      sudais: "https://verses.quran.com/Sudais/mp3/018002.mp3"
     }
   },
   {
@@ -81,8 +81,8 @@ export const ayahData: Ayah[] = [
     tadabbur: "Balasan surga itu bukanlah kenikmatan sementara, melainkan tempat tinggal yang abadi tanpa batas waktu.",
     tafsir: "Maksudnya adalah mereka akan tinggal di dalam surga tersebut untuk selama-lamanya, tidak akan pernah pindah atau dikeluarkan darinya. Kenikmatan yang tidak akan pernah terputus.",
     audioUrls: {
-      mishary: "https://everyayah.com/data/Alafasy_128kbps/018003.mp3",
-      sudais: "https://everyayah.com/data/Abdurrahmaan_As-Sudais_192kbps/018003.mp3"
+      mishary: "https://verses.quran.com/Alafasy/mp3/018003.mp3",
+      sudais: "https://verses.quran.com/Sudais/mp3/018003.mp3"
     }
   },
   {
@@ -100,8 +100,8 @@ export const ayahData: Ayah[] = [
     tadabbur: "Peringatan keras bagi mereka yang menyekutukan Allah dengan menganggap-Nya memiliki anak, sebuah kebohongan besar.",
     tafsir: "Ayat ini secara khusus turun untuk membantah kaum musyrikin Arab yang mengatakan malaikat adalah anak perempuan Allah, serta kaum Yahudi dan Nasrani yang mengatakan Uzair dan Isa adalah anak Allah. Ibnu Katsir menegaskan peringatan keras bagi mereka atas kebohongan ini.",
     audioUrls: {
-      mishary: "https://everyayah.com/data/Alafasy_128kbps/018004.mp3",
-      sudais: "https://everyayah.com/data/Abdurrahmaan_As-Sudais_192kbps/018004.mp3"
+      mishary: "https://verses.quran.com/Alafasy/mp3/018004.mp3",
+      sudais: "https://verses.quran.com/Sudais/mp3/018004.mp3"
     }
   },
   {
@@ -129,8 +129,8 @@ export const ayahData: Ayah[] = [
     tadabbur: "Klaim bahwa Allah punya anak adalah ucapan tanpa dasar ilmu, warisan kebodohan yang sangat dimurkai Allah.",
     tafsir: "Ibnu Katsir menjelaskan bahwa ucapan mereka (bahwa Allah punya anak) adalah kebohongan yang sangat besar. Mereka mengucapkannya tanpa dasar ilmu, hanya membebek kepada nenek moyang mereka yang juga sesat. Itu adalah kalimat yang sangat keji yang keluar dari mulut mereka.",
     audioUrls: {
-      mishary: "https://everyayah.com/data/Alafasy_128kbps/018005.mp3",
-      sudais: "https://everyayah.com/data/Abdurrahmaan_As-Sudais_192kbps/018005.mp3"
+      mishary: "https://verses.quran.com/Alafasy/mp3/018005.mp3",
+      sudais: "https://verses.quran.com/Sudais/mp3/018005.mp3"
     }
   },
   {
@@ -153,8 +153,8 @@ export const ayahData: Ayah[] = [
     tadabbur: "Nabi Muhammad SAW sangat peduli pada umatnya hingga bersedih jika mereka menolak kebenaran. Namun, hidayah adalah hak Allah semata.",
     tafsir: "Ibnu Katsir menjelaskan bahwa Allah menghibur Nabi Muhammad SAW yang merasa sangat sedih dan berduka karena kaumnya (Quraisy) enggan beriman kepada Al-Qur'an. Allah mengingatkan agar beliau tidak membinasakan dirinya karena kesedihan, sebab tugas Rasul hanyalah menyampaikan, sedangkan hidayah di tangan Allah.",
     audioUrls: {
-      mishary: "https://everyayah.com/data/Alafasy_128kbps/018006.mp3",
-      sudais: "https://everyayah.com/data/Abdurrahmaan_As-Sudais_192kbps/018006.mp3"
+      mishary: "https://verses.quran.com/Alafasy/mp3/018006.mp3",
+      sudais: "https://verses.quran.com/Sudais/mp3/018006.mp3"
     }
   },
   {
@@ -177,8 +177,8 @@ export const ayahData: Ayah[] = [
     tadabbur: "Dunia dan isinya hanyalah perhiasan sementara untuk menguji manusia, siapa yang paling baik amalnya, bukan yang paling banyak hartanya.",
     tafsir: "Menurut Ibnu Katsir, Allah menjadikan segala sesuatu di bumi (harta, anak, kekuasaan, keindahan alam) sebagai perhiasan sementara untuk menguji manusia. Ujian ini adalah untuk melihat siapa yang paling zuhud terhadap dunia dan paling taat kepada Allah, bukan siapa yang paling banyak hartanya.",
     audioUrls: {
-      mishary: "https://everyayah.com/data/Alafasy_128kbps/018007.mp3",
-      sudais: "https://everyayah.com/data/Abdurrahmaan_As-Sudais_192kbps/018007.mp3"
+      mishary: "https://verses.quran.com/Alafasy/mp3/018007.mp3",
+      sudais: "https://verses.quran.com/Sudais/mp3/018007.mp3"
     }
   },
   {
@@ -196,8 +196,8 @@ export const ayahData: Ayah[] = [
     tadabbur: "Pada akhirnya, segala keindahan dunia akan hancur dan lenyap menjadi tanah tandus. Janganlah tertipu oleh kefanaannya.",
     tafsir: "Ibnu Katsir menafsirkan bahwa setelah masa ujian selesai, Allah akan menghancurkan segala perhiasan dunia tersebut. Bumi yang tadinya hijau, indah, dan subur akan dikembalikan menjadi tanah yang tandus, kering, dan tidak ada tumbuhan sama sekali pada hari kiamat.",
     audioUrls: {
-      mishary: "https://everyayah.com/data/Alafasy_128kbps/018008.mp3",
-      sudais: "https://everyayah.com/data/Abdurrahmaan_As-Sudais_192kbps/018008.mp3"
+      mishary: "https://verses.quran.com/Alafasy/mp3/018008.mp3",
+      sudais: "https://verses.quran.com/Sudais/mp3/018008.mp3"
     }
   },
   {
@@ -219,8 +219,8 @@ export const ayahData: Ayah[] = [
     tadabbur: "Kisah pemuda Ashabul Kahfi memang menakjubkan, namun penciptaan langit dan bumi jauh lebih dahsyat sebagai bukti kekuasaan Allah.",
     tafsir: "Ibnu Katsir menjelaskan bahwa kisah Ashabul Kahfi (para pemuda gua) dan Ar-Raqim (batu bersurat/nama lembah tempat gua itu berada) memang menakjubkan. Tetapi, penciptaan langit, bumi, matahari, bulan, dan pergantian siang-malam jauh lebih menakjubkan dan merupakan bukti kekuasaan Allah yang lebih besar daripada sekadar kisah mereka.",
     audioUrls: {
-      mishary: "https://everyayah.com/data/Alafasy_128kbps/018009.mp3",
-      sudais: "https://everyayah.com/data/Abdurrahmaan_As-Sudais_192kbps/018009.mp3"
+      mishary: "https://verses.quran.com/Alafasy/mp3/018009.mp3",
+      sudais: "https://verses.quran.com/Sudais/mp3/018009.mp3"
     }
   },
   {
@@ -248,8 +248,8 @@ export const ayahData: Ayah[] = [
     tadabbur: "Doa Ashabul Kahfi mengajarkan kita untuk selalu memohon rahmat dan petunjuk Allah saat menghadapi kesulitan dan fitnah demi mempertahankan iman.",
     tafsir: "Ibnu Katsir menceritakan bahwa para pemuda ini lari meninggalkan kaumnya demi menyelamatkan agama mereka dari fitnah kesyirikan. Saat berlindung di gua, mereka memohon rahmat Allah agar disembunyikan dari musuh, dan memohon petunjuk agar urusan mereka diberi jalan keluar yang baik dan lurus.",
     audioUrls: {
-      mishary: "https://everyayah.com/data/Alafasy_128kbps/018010.mp3",
-      sudais: "https://everyayah.com/data/Abdurrahmaan_As-Sudais_192kbps/018010.mp3"
+      mishary: "https://verses.quran.com/Alafasy/mp3/018010.mp3",
+      sudais: "https://verses.quran.com/Sudais/mp3/018010.mp3"
     }
   }
 ];
