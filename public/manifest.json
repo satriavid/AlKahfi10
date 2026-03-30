@@ -1,0 +1,21 @@
+{
+  "name": "Hafal Al-Kahfi 10",
+  "short_name": "Al-Kahfi 10",
+  "description": "Aplikasi untuk menghafal 10 ayat pertama Surah Al-Kahfi",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2E7D32",
+  "icons": [
+    {
+      "src": "https://picsum.photos/seed/quran/192/192",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://picsum.photos/seed/quran/512/512",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
