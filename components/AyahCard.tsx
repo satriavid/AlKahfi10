@@ -68,7 +68,7 @@ export function AyahCard({ ayah }: AyahCardProps) {
 
         {activeTab === 'word' && (
           <div className="border-t pt-3 border-slate-100">
-            <div className="flex flex-wrap gap-x-4 gap-y-3 justify-end">
+            <div className="flex flex-wrap gap-x-4 gap-y-3 justify-start text-right" dir="rtl">
               {ayah.words.map((word, index) => (
                 <div key={index} className="flex flex-col items-center min-w-[60px]">
                   <span className="font-arabic text-xl text-slate-800">{word.arabic}</span>
