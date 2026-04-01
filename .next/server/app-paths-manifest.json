@@ -1,0 +1,10 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/api/create-invoice/route": "app/api/create-invoice/route.js",
+  "/learning/page": "app/learning/page.js",
+  "/api/callback/route": "app/api/callback/route.js",
+  "/info/page": "app/info/page.js",
+  "/motivation/page": "app/motivation/page.js",
+  "/home/page": "app/home/page.js",
+  "/page": "app/page.js"
+}
